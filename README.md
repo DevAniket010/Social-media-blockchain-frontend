@@ -98,7 +98,7 @@ To deploy and interact with the contracts, you can use tools like:
 - **Truffle**
 - **Hardhat**
 
-##Project Glimpse 
+## Project Glimpse 
 
 ![Landing Page](https://drive.google.com/uc?export=view&id=1GmsAxh-wCjnWqHBRrtulc5gie8zvuUhp)
 
