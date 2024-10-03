@@ -110,8 +110,6 @@ To deploy and interact with the contracts, you can use tools like:
 
 ![Comments](https://drive.google.com/uc?export=view&id=1GkBfundAy_MO25vRqp0O7Zw1FWXgjjBl)
 
-![Tip](https://drive.google.com/uc?export=view&id=1GmsAxh-wCjnWqHBRrtulc5gie8zvuUhp)
-
 ![Reward](https://drive.google.com/uc?export=view&id=1GmYLsndexNPKVTlE-Rjq83MI8OW3iJ3R)
 
 
