@@ -1,4 +1,4 @@
-# Social Media Platform
+# DenZ for GenZ
 
 This project is a **decentralized social media platform** built using **Next.js**, **Express.js**, **Node.js**, **MongoDB**, and **Blockchain (Ethereum)**. The platform allows users to share posts, interact with others through likes and comments, and earn rewards in the form of Ether coins. Influencers can connect with brands for collaborations and advertising opportunities, while brands can promote their products to relevant audiences.
 
