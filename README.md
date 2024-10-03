@@ -33,6 +33,8 @@ This project is a **decentralized social media platform** built using **Next.js*
 - **MongoDB**: Database for storing user data, posts, comments, and other content.
 - **Web3.js**: JavaScript library for interacting with the Ethereum blockchain.
 
+**Backend Repository**: [Social Media Backend](https://github.com/DevAniket010/Social_media_backend)
+
 ### Blockchain
 - **Ethereum**: For decentralized token transfers and smart contract interactions.
 - **Smart Contracts**: Manage donation, reward distribution, and advertising payments using Solidity.
@@ -105,10 +107,6 @@ Contributions are welcome! If you'd like to contribute, please fork the reposito
 3. Commit your changes (`git commit -m 'Add some feature'`)
 4. Push to the branch (`git push origin feature/YourFeature`)
 5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
